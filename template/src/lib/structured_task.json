@@ -1,0 +1,62 @@
+[
+  {
+    "task_text": "go to the party",
+    "due_date": null,
+    "status": "tentative",
+    "category": "social"
+  },
+  {
+    "task_text": "sleep earlier",
+    "due_date": null,
+    "status": "pending",
+    "category": "health"
+  },
+  {
+    "task_text": "help her out",
+    "due_date": null,
+    "status": "committed",
+    "category": "favor"
+  },
+  {
+    "task_text": "follow through on long-term plan",
+    "due_date": null,
+    "status": "in progress",
+    "category": "career"
+  },
+  {
+    "task_text": "try relationship again",
+    "due_date": null,
+    "status": "considering",
+    "category": "relationship"
+  },
+  {
+    "task_text": "be more independent",
+    "due_date": null,
+    "status": "aspirational",
+    "category": "personal growth"
+  },
+  {
+    "task_text": "initiate personal change",
+    "due_date": null,
+    "status": "struggling",
+    "category": "personal growth"
+  },
+  {
+    "task_text": "forgive her",
+    "due_date": null,
+    "status": "blocked",
+    "category": "emotional"
+  },
+  {
+    "task_text": "be authentic",
+    "due_date": null,
+    "status": "aspirational",
+    "category": "identity"
+  },
+  {
+    "task_text": "open up to others",
+    "due_date": null,
+    "status": "conflicted",
+    "category": "emotional"
+  }
+]
